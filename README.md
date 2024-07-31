@@ -1,11 +1,10 @@
 ## Hi, I am Rosey :) Welcome to my Github🤗
-- 🔭 I’m currently working on **app development**
-
-- 🌱 I’m currently learning **Machine Learning and Data Science**
-
+- 🔭 I’m currently working on **app development.**
+- 🌱 I’m currently learning **Machine Learning and Data Science.**
+- 👯 I’m looking to collaborate on any interesting projects!
+- 🤔 I’m looking for help with landing an internship!
 - 📫 How to reach me **hchoi7171@gmail.com**
-
-- ⚡ Fun fact **I like making music 🎵, extreme sports(especially watersports🤿)!**
+- ⚡ Fun fact **I make music 🎵 and like doing extreme sports(especially watersports🤿)!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
